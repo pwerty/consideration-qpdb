@@ -1,5 +1,5 @@
 # consideration-qpdb
-게임 개발 이론 : q-p-d-b
+온라인 게임이 장수하는데 있어 필수적인 요소를 4가지로 요약한 게임 개발 이론 : q-p-d-b
 
 
 ### q : quarantine : 격리된 공간
